@@ -1,0 +1,14 @@
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\Menjadora.exe.config
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\Menjadora.exe
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\Menjadora.pdb
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.csprojResolveAssemblyReference.cache
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.FormLista.resources
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.Properties.Resources.resources
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.csproj.GenerateResource.Cache
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.exe
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.pdb
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\System.Data.SQLite.dll
+c:\users\meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\System.Data.SQLite.xml
+C:\Users\Meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Meggi\documents\visual studio 2015\Projects\Menjadora\Menjadora\obj\Debug\Menjadora.Management.resources
